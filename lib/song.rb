@@ -49,6 +49,7 @@ class Song
       end
     end
     artist_count_hash
+    binding.pry
   end
 
 end
